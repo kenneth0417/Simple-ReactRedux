@@ -1,1 +1,1 @@
-A simple todo project with the implementation of Redux and React-Redux.
+A simple todo application with the implementation of Redux and React-Redux.
